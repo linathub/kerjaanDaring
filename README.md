@@ -1,7 +1,7 @@
-# kerjaanDaring
 Kelompok 
 1. Anna
-2. Lilis
-3. Lina
-4. Sabrina
-5. Syifa A
+2. anna
+3. Lilis
+4. Lina
+5. Sabrina
+6. Syifa A
